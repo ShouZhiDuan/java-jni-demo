@@ -83,10 +83,6 @@ public class JavaJniDemoApplication {
 
         while (true){
         }
-
     }
-
-
-
 
 }
